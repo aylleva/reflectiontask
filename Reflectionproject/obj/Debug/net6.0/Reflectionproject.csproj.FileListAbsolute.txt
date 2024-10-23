@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\bin\Debug\net6.0\Reflectionproject.exe
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\bin\Debug\net6.0\Reflectionproject.deps.json
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\bin\Debug\net6.0\Reflectionproject.runtimeconfig.json
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\bin\Debug\net6.0\Reflectionproject.dll
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\bin\Debug\net6.0\Reflectionproject.pdb
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\Reflectionproject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\Reflectionproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\Reflectionproject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\Reflectionproject.AssemblyInfo.cs
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\Reflectionproject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\Reflectionproject.dll
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\refint\Reflectionproject.dll
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\Reflectionproject.pdb
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\Reflectionproject.genruntimeconfig.cache
+C:\Users\user\Desktop\Reflection\Reflectionproject\Reflectionproject\obj\Debug\net6.0\ref\Reflectionproject.dll
